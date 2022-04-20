@@ -1,0 +1,12 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(215, 250, 245);
+}
+#in{
+    border:solid black;
+    background-color: rgb(215, 236, 245);
+    width: 17rem;
+    height: 20rem;
+    padding: 43px;
+}

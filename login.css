@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+.login{
+    border: solid black;
+    background-color: rgb(171, 230, 253);
+    width: 20rem;
+    height: 15rem;
+    padding: 20px;
+    margin-right: 2rem;
+
+}
